@@ -21,8 +21,8 @@ PRIVATE_KEY = os.environ.get('PRIVATE_KEY')
 BUYER_KEY = "G0Pme72u8Y1MwxHqvY4iBW+7VPtJ7dsX7SGs6zZ5yvVIzdRAyHR6YkwHG2ufOE+12lsbJRwBF4Hqd7dUEOZZkg=="
 
 
-COLLECTOR_APP_ID = os.environ.get('SUBSCRIBER_ID')
-RECEIVER_APP_ID = "SellerAppTestdata12.com"
+COLLECTOR_APP_ID = os.environ.get('SUBSCRIBER_ID') #Reffer to intergration docs for info
+RECEIVER_APP_ID = "SellerAppTestdata12.com" #Reffer to intergration docs for info
 DIFFERENT_COLLECTOR_APP_ID = "different-collector.samhita.org" # Different collector app id
 
 
