@@ -126,6 +126,6 @@ Nocs_Settlement/
 ## References
 
 - ONDC NTS Specifications (RSF 2.0 Official Documentation): [ONDC NTS Services Developer Guide](https://ondc-official.github.io/ONDC-NTS-Specifications/?branch=release-RSF-2.0.0&flowId=NP-NP&tabId=%23swagger#swagger)
-- ONDC Documentation: See `Docs/` folder
-- NOCS Integration Documentation: `Docs/NOCS Integeration Documentation_v1.2.docx`
-- Test Scenarios: `Docs/NOCS - NP Test Scenario_1.1.xlsx`
+- ONDC Documentation: [Docs/](Docs/)
+- NOCS Integration Documentation: [NOCS Integeration Documentation_v1.2.docx](Docs/NOCS%20Integeration%20Documentation_v1.2.docx)
+- Test Scenarios: [NOCS - NP Test Scenario_1.1.xlsx](Docs/NOCS%20-%20NP%20Test%20Scenario_1.1.xlsx)
